@@ -1,0 +1,24 @@
+/*
+  Flashing led-diode
+  Turns on an diode on for one second, then off for one second in .
+  
+  Made by HD-EXTREEM
+ */
+
+
+int PINOUT = 13;                 // LED connected to digital pin 13
+
+// initialize digital pin 13 as an output.
+void setup(){
+
+  pinMode(PINOUT, OUTPUT);      // SETS THE PIN13 AS AN OUTPUT
+ 
+}
+
+//This routin repeats in an endless loop by setting diode on and off
+void loop(){
+  digitalWrite(ledPin, HIGH);   // SETS THE LED-DIODE ON
+  delay(1000);                  // DELAYS FOR A SECOND
+  digitalWrite(ledPin, LOW);    // SETS THE LED-DIODE NOW TO OFF INSTEAD
+  delay(1000);                  // DELAYS FOR A SECOND 
+}
