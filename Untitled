@@ -1,1 +1,1 @@
-{"Users”:[{”id”:”123132151”,”ApprovedStatus”:”false”},{”id”:”12312412”,”ApprovedStatus”:”true”},{”id”:”824235363”,”ApprovedStatus”:”true”},{”id”:”87324127”,”ApprovedStatus”:”false”}]}
+{"Users”:[{”id”:”123132151”,”ApprovedStatus”:”vad”},{”id”:”12312412”,”ApprovedStatus”:”vad”},{”id”:”824235363”,”ApprovedStatus”:”hejdå”},{”id”:”87324127”,”ApprovedStatus”:”hej”}]}
