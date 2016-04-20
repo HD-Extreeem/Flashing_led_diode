@@ -1,1 +1,37 @@
-{"Users”:[{”id”:”123132151”,”ApprovedStatus”:”vad”},{”id”:”12312412”,”ApprovedStatus”:”vad”},{”id”:”824235363”,”ApprovedStatus”:”hejdå”},{”id”:”87324127”,”ApprovedStatus”:”hej”}]}
+{
+	"Users": [{
+		"id": "3245234",
+		"Approvedstatus": false
+	}, {
+		”id”: "234523462",
+		"Approvedstatus": false
+	}, {
+		”id”: "2353573456",
+		"Approvedstatus": false
+	}, {
+		”id”: "124246346",
+		"Approvedstatus": true
+	}, {
+		”id”: "23423523",
+		"Approvedstatus": true
+	}, {
+		”id”: "12312412",
+		"Approvedstatus": false
+	}, {
+		”id”: "12354234523",
+		"Approvedstatus": true
+	}, {
+		”id”: "1243463455",
+		"Approvedstatus": false
+	}, {
+		”id”: "345645734",
+		”ApprovedStatus”: true
+	}, {
+		”id”: "2343464574",
+		"Approvedstatus": false
+	}, {
+		"firstname": "1242354576456",
+		"Approvedstatus": true
+
+	}]
+}
