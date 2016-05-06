@@ -1,37 +1,38 @@
 {
-	"Users": [{
-		"id": "3245234",
-		"Approvedstatus": false
+	"Log": [{
+		"Name": "Test",
+		"Date": "01-01-1970",
+		"Time": "10:10:10",
+		"Status": "Succeeded"
 	}, {
-		”id”: "234523462",
-		"Approvedstatus": false
+		"Name": "Test10",
+		"Date": "01-01-1970",
+		"Time": "10:10:10",
+		"Status": "Succeeded"
 	}, {
-		”id”: "2353573456",
-		"Approvedstatus": false
+		"Name": "Testar",
+		"Date": "04-01-1977",
+		"Time": "13:15:20",
+		"Status": "Succeeded"
 	}, {
-		”id”: "124246346",
-		"Approvedstatus": true
+		"Name": "Testad",
+		"Date": "11-06-1870",
+		"Time": "10:10:10",
+		"Status": "Not Succeeded"
 	}, {
-		”id”: "23423523",
-		"Approvedstatus": true
+		"Name": "Test",
+		"Date": "01-01-1970",
+		"Time": "10:10:10",
+		"Status": "Succeeded"
 	}, {
-		”id”: "12312412",
-		"Approvedstatus": false
+		"Name": "Test",
+		"Date": "01-01-1970",
+		"Time": "10:10:10",
+		"Status": "Succeeded"
 	}, {
-		”id”: "12354234523",
-		"Approvedstatus": true
-	}, {
-		”id”: "1243463455",
-		"Approvedstatus": false
-	}, {
-		”id”: "345645734",
-		”ApprovedStatus”: true
-	}, {
-		”id”: "2343464574",
-		"Approvedstatus": false
-	}, {
-		"firstname": "1242354576456",
-		"Approvedstatus": true
-
+		"Name": "123",
+		"Date": "11-01-1970",
+		"Time": "16:10:10",
+		"Status": "Succeeded"
 	}]
 }
